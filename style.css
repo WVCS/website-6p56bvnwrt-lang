@@ -1,3 +1,14 @@
-body {
+	body { 
+       background-color: coral;
+}
+h2 {
+	color: azure;
+	text-decoration: underline wavy 5px beige;
 
 }
+		img { 
+		width: 300px;}
+		
+		
+</style>
+
