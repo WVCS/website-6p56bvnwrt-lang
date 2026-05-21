@@ -1,14 +1,14 @@
-	body { 
-       background-color: coral;
+	@charset "utf-8";
+/*CSS Document*/
+
+body { 
+       background-color: coral 
 }
 h2 {
 	color: azure;
-	text-decoration: underline wavy 5px beige;
+	text-decoration: inherit 5px coral;
 
 }
-		img { 
-		width: 300px;}
 		
-		
-</style>
+
 
